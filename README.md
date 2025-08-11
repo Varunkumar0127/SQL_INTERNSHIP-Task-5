@@ -13,11 +13,15 @@ This task demonstrates how to use:
 - CROSS JOIN
 - SELF JOIN
 - NATURAL JOIN
+
+
 🛠 Tools & Technologies Used
 - MySQL Workbench — Database design, query writing, and execution
 - MySQL 8.0+ — Relational Database Management System
 - GitHub — Version control and project hosting
 - Markdown — Documentation formatting
+
+  
 📌 Summary
 In this task, SQL joins were used to combine and display related data from the `guests`, `rooms`, `bookings`, `payments`, and `services_used` tables.  
 The practice included retrieving data with different join types, handling NULL values, and performing multi-table joins for comprehensive reporting.
